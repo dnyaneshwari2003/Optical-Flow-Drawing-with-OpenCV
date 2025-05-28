@@ -11,7 +11,6 @@ This project is a fun and interactive computer vision application that allows yo
 - 🧼 Erase drawing canvas (`e` key)
 - 🛑 Exit anytime with the `ESC` key
 
----
 
 ## 🛠 Requirements
 
