@@ -22,3 +22,4 @@ Install dependencies using:
 
 ```bash
 pip install opencv-python numpy
+
